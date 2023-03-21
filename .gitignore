@@ -9,6 +9,7 @@ lerna-debug.log*
 
 node_modules
 dist
+public
 src/components/Object2.jsx
 src/components/PhysicsWorld_bk.jsx
 src/components/Body.jsx
